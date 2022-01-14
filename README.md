@@ -11,10 +11,11 @@ body {
 
 # San Diego State University Nuclear Theory Group (NTG)
 
-The SDSU-NTG is group of low-energy nuclear theorists at San Diego State
-University (SDSU), San Diego, CA, USA. This page was created by one of its PhD
-students, Oliver Gorton. The purpose of this page is purely informational, and
-is unaffiliated with SDSU or any of its Faculty, Staff, or Students.
+The SDSU-NTG is group of low-energy nuclear theorists at [San Diego State
+University](https://www.sdsu.edu) (SDSU), San Diego, CA, USA. This page was
+created by one of its PhD students, Oliver Gorton. The purpose of this page is
+purely informational, and is unaffiliated with SDSU or any of its Faculty,
+Staff, or Students.
 
 The nuclear theory group at SDSU has expertise in nuclear structure, reactions
 on light nuclei, uncertainty quantification (UQ), and astrophysical
@@ -24,10 +25,10 @@ applications.
 
 These are the professors conducting research in nuclear theory at SDSU.
 
-* Dr. Calvin Johnson
-* Dr. Rodrigo Navarro-Perez
-* Dr. Kenneth Nollett
-* Dr. Fridolin Weber
+* [Dr. Calvin Johnson](http://sci.sdsu.edu/johnson/)
+* [Dr. Rodrigo Navarro-Perez](http://rnavarroperez.sdsu.edu/)
+* [Dr. Kenneth Nollett](https://nollett.sdsu.edu)
+* [Dr. Fridolin Weber](https://fweber.sdsu.edu)
 
 ## Codes
 
