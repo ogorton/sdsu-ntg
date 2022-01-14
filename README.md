@@ -22,7 +22,12 @@ applications.
 
 ## Professors
 
+These are the professors conducting research in nuclear theory at SDSU.
+
 * Dr. Calvin Johnson
+* Dr. Rodrigo Navarro-Perez
+* Dr. Kenneth Nollett
+* Dr. Fridolin Weber
 
 ## Codes
 
@@ -30,9 +35,13 @@ The group specializes in computational methods and has released a number of
 open-source software packages.
 
 ### (BIGSTICK)[https://github.com/cwjsdsu/BigstickPublick]
+An advanced nuclear shell model code.
 
 ### (DMFortFactor)[https://github.com/ogorton/dmfortfactor]
+A code for computing WIMP-nucleus form factors.
 
 ### (Wigner)[https://github.com/ogorton/wigner]
+A modern Fortran library for computing Wigner 3-j, 6-j, and 9-j symbols using
+basic algorithms.
 
 ## Recent Publications
