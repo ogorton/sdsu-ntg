@@ -1,15 +1,6 @@
-<style>
-.content {
-  max-width: 50em;
-  margin: 0 auto;
-}
-body {
-    color: #444;
-}
-</style>
-<div class="content">
-
-# San Diego State University Nuclear Theory Group (NTG)
+---
+title: San Diego State University Nuclear Theory Group (NTG)
+---
 
 The SDSU-NTG is group of low-energy nuclear theorists at [San Diego State
 University](https://www.sdsu.edu) (SDSU), San Diego, CA, USA. This page was
